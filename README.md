@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying Informatics at Silesian University of Technology.<br>💻 I’m currently working on developing desktop applications and enhancing my skills in networking.
+🔭 I’m studying Computer Science at Silesian University of Technology.<br>💻 I’m currently working on developing desktop applications and enhancing my skills in networking.
 
 
 ## 🌐 Socials:
